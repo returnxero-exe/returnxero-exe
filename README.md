@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm the creator of ReturnXero 👋
 
-<!--
-**returnxero-exe/returnxero-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I build things for the web and document my journey here.
 
-Here are some ideas to get you started:
+🌐 **Check out my main project:** [returnxero.com](https://returnxero.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ What I'm working on
+- Building [ReturnXero](https://returnxero.com/)
+- Exploring SEO and web performance
+
+#### 📈 My GitHub Stats
+![returnxero-exe's GitHub stats](https://github-readme-stats.vercel.app/api?username=returnxero-exe&show_icons=true&theme=radical)
+
+#### 📫 Connect with me
+- **Website:** [returnxero.com](https://returnxero.com/)
+- **LinkedIn:** [linkedin.com/in/return-xero-exe](https://www.linkedin.com/in/return-xero-exe)
