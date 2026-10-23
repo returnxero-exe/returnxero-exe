@@ -5,7 +5,7 @@ Welcome to my GitHub! I build things for the web and document my journey here.
 🌐 **Check out my main project:** [returnxero.com](https://returnxero.com/)
 
 #### 🛠️ What I'm working on
-- Building [ReturnXero](https://returnxero.com/)
+- Building [ReturnXERO](https://returnxero.com/)
 - Exploring SEO and web performance
 
 #### 📈 My GitHub Stats
